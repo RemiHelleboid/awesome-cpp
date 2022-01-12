@@ -1,7 +1,7 @@
 # Awesome C++ [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/fffaraz/awesome-cpp/)
-A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
+A curated list of nice C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
 
-- [Awesome C++](#awesome-cpp)
+- [Awesome C++ ![Awesome](https://awesome.re) [![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/fffaraz/awesome-cpp/)](#awesome-c--)
 	- [Standard Libraries](#standard-libraries)
 	- [Frameworks](#frameworks)
 	- [Artificial Intelligence](#artificial-intelligence)
@@ -66,8 +66,11 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 	- [Talks](#talks)
 	- [Videos](#videos)
 	- [Websites](#websites)
+	- [Weblogs](#weblogs)
+	- [Other Awesome Projects](#other-awesome-projects)
 - [Other Awesome Lists](#other-awesome-lists)
 - [Contributing](#contributing)
+			- [*If you see a project or link here that is no longer maintained or is not a good fit, please submit a pull request to improve this document. Thank you!*](#if-you-see-a-project-or-link-here-that-is-no-longer-maintained-or-is-not-a-good-fit-please-submit-a-pull-request-to-improve-this-document-thank-you)
 
 ## Standard Libraries
 *C++ Standard Library - including STL Containers, STL Algorithm, STL Functional, etc.*
